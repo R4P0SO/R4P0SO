@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- &rank=-C,-? -->
 
 ###
-![Snake animation](https://raw.githubusercontent.com/r4p0so/r4p0so/output/github-contribution-grid-snake-dark.svg)
+
 ###
 
 <p align="center"> <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=R4P0SO&count_private=true&include_all_commits=true&theme=transparent" /><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4P0SO&hide_progress=true&theme=transparent" alt=R4P0SO /></p>
